@@ -1,5 +1,5 @@
 const bekisuuKeisan = (num) => {
-  console.log(num ** 2);
+  return num ** 2;
 }
 
-bekisuuKeisan(10);
+console.log(bekisuuKeisan(6));
